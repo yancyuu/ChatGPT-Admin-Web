@@ -14,7 +14,7 @@ const cn = {
     Email: "邮箱",
     GetEmailCode: "获取邮箱验证码",
     GetPhoneCode: "获取手机验证码",
-    NoneData: "请确保邮箱、密码和验证码输入完整",
+    NoneData: "请确保邮箱、密码输入完整",
     EmailNonExistent: "邮箱不存在，请重新输入",
     NotYetRegister: "新用户，请先注册",
     DuplicateRegistration: "该邮箱已被注册",
